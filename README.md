@@ -4,7 +4,7 @@ The Password Toggle JavaScript Page is a simple web page that demonstrates how t
 
 ## Demo
 
-You can see the live demo of the Password Toggle JavaScript Page [here](https://example.com/password-toggle-demo).
+You can see the live demo of the Password Toggle JavaScript Page (https://gargshruti19.github.io/password-toggle/).
 
 ## Features
 
